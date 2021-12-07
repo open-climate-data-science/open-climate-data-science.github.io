@@ -29,7 +29,6 @@ github_username:  open-climate-data-science
 
 # Build settings
 theme: minima
-markdown: kramdown
 
 plugins:
   - jekyll-feed
