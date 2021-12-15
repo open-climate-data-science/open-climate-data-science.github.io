@@ -3,36 +3,28 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Workshop Application & Information
+title: Workshop News & Navigation
 ---
 
-## Application
+## Workshop Application Is Now Open!
 
 The application for the virtual Open Climate Data Science Workshop in March 2022 is now open!
 
 [Application Link](https://forms.gle/W2sDwoBwdajfW2cq5)
 
-The purpose of this application is to include at least one representative per organization while maintaining our current Zoom capacity limit. By submitting an application, you are letting us know that you and your organization would like to be represented at this event. Please feel free to pass along this application to others. **This application will close on Friday, January 21, 2022.**
+The purpose of this application is to include at least one representative per organization while maintaining our current Zoom capacity limit. By submitting an application, you are letting us know that you and your organization would like to be represented at this event. Please feel free to pass along this application to others.
 
-## Workshop Description
+**This application will close on Friday, January 21, 2022.**
 
-Climate change touches many aspects of life and is a top challenge facing future generations in North Carolina. Many publicly available datasets exist to support adaptation and resiliency in the face of climate change. However, these data can often be difficult for communities to access, analyze, interpret, and put into action given their local knowledge and lived experiences. 
+## Website Navigation Guide
 
-To initiate steps to overcome these hurdles, this virtual workshop will:
+For more information on the motivating factors and goals of this workshop, visit the ["About" tab](https://open-climate-data-science.github.io/about/) of this website.
 
-1. **facilitate collaborations** between communities, organizations, climate scientists, and data scientists with shared goals and interests
+For a complete schedule of the workshop, visit the ["Schedule" tab](https://open-climate-data-science.github.io/schedule/) of this website.
 
-2. **build capacity** for North Carolinians to use publicly available (i.e., "open data") weather and climate data along with reproducible science practices (i.e., "open science")
+For the tutorials, visit the ["Tutorials" tab](https://open-climate-data-science.github.io/tutorials/) of this website.
 
-For a **complete schedule of the workshop**, visit the ["Schedule" tab](https://open-climate-data-science.github.io/schedule/) of this website.
-
-This workshop is open to all people, communities, and organizations who are interested in using publicly available data along with reproducible science practices to address the impacts of climate change in their communities.
-
-## Organization & Sponsorship
-
-The Open Climate Data Science Workshop is co-organized by staff from the [State Climate Office of NC](https://climate.ncsu.edu), the [NC Institute for Climate Studies](https://ncics.org/), the [Southeast Climate Adaptation Science Center](https://secasc.ncsu.edu/), and [NC State Libraries](https://www.lib.ncsu.edu/).
-
-This event is supported through a grant from the NC State University Office of Research and Innovation. For more information, visit [their website](https://research.ncsu.edu/dsi/internal-funding/).
+For the workshop code of conduct (CoC), visit the ["CoC" tab](https://open-climate-data-science.github.io/coc/) of this website.
 
 ## Contact
 

@@ -38,6 +38,7 @@ plugins:
 
 #Pages in the top menu, in order
 header_pages:
+ - about.md
  - schedule.md
  - tutorials.md
  - invitees.md
@@ -63,3 +64,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - _posts/2021-12-06-welcome-to-jekyll.markdown
+  - about_theme.md
