@@ -4,4 +4,4 @@ title: CoC
 permalink: /coc/
 ---
 
-fill in text
+The workshop code of conduct (CoC) is still in develoment. Please come back soon!
