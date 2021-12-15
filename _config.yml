@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Open Climate Data Science
+title: Home
 email: open-climate-data@ncsu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The Open Climate Data Science Workshop is co-organized by the State Climate Office of NC and NC Institute for Climate Studies and will take place in March 2022.
-#domain: open-climate.github.io
-#url: "https://open-climate.github.io" # the base hostname & protocol 
+  The Open Climate Data Science Workshop is co-organized by the State Climate Office of NC and NC Institute for Climate Studies and will take place March 1-2 & 8-9, 2022.
+#domain: open-climate-data-science.github.io
+#url: "https://open-climate-data-science.github.io" # the base hostname & protocol 
 #baseurl: "/open-climate.github.io/" # the subpath of your site, e.g. /blog for your site, e.g. http://example.com
-twitter_username: open-climate-data
+#twitter_username: open-climate-data
 github_username:  open-climate-data-science
 
 # Build settings
