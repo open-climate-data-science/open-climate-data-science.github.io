@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Open Climate Data Science Workshop
+title: Workshop Description & Application
 ---
 
 fill in text
