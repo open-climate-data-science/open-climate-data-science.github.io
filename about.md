@@ -14,11 +14,13 @@ To initiate steps to overcome these hurdles, this virtual workshop will:
 
 2. **build capacity** for North Carolinians to use publicly available (i.e., "open data") weather and climate data along with reproducible science practices (i.e., "open science")
 
-For a **complete schedule of the workshop**, visit the ["Schedule" tab](https://open-climate-data-science.github.io/schedule/) of this website.
-
-To apply to the workshop, visit the the [main website page](https://go.ncsu.edu/open-climate-data). **This application will close on Friday, January 21, 2022.**
-
 This workshop is open to all people, communities, and organizations who are interested in using publicly available data along with reproducible science practices to address the impacts of climate change in their communities.
+
+For a complete schedule of the workshop, visit the ["Schedule" tab](https://open-climate-data-science.github.io/schedule/) of this website.
+
+To apply to the workshop, visit the the [main website page](https://go.ncsu.edu/open-climate-data).
+
+**This application will close on Friday, January 21, 2022.**
 
 ## Organization & Sponsorship
 

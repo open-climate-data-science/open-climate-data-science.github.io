@@ -18,11 +18,13 @@ The purpose of this application is to include at least one representative per or
 
 ## Website Navigation Guide
 
-For more information on the motivating factors and goals of this workshop, visit the ["About" tab](https://open-climate-data-science.github.io/about/) of this website.
+For more information on the motivating factors and goals of this workshop, visit the ["About" tab](https://open-climate-data-science.github.io/about/).
 
-For a complete schedule of the workshop, visit the ["Schedule" tab](https://open-climate-data-science.github.io/schedule/) of this website.
+For a complete schedule of the workshop, visit the ["Schedule" tab](https://open-climate-data-science.github.io/schedule/).
 
-For the tutorials, visit the ["Tutorials" tab](https://open-climate-data-science.github.io/tutorials/) of this website.
+For the tutorials, visit the ["Tutorials" tab](https://open-climate-data-science.github.io/tutorials/).
+
+For a list of organizations attending this event, visit the ["Attendees" tab](https://open-climate-data-science.github.io/attendees/).
 
 For the workshop code of conduct (CoC), visit the ["CoC" tab](https://open-climate-data-science.github.io/coc/) of this website.
 

@@ -4,4 +4,4 @@ title: Tutorials
 permalink: /tutorials/
 ---
 
-fill in text
+Hands-on tutorials are still in develoment. Please come back soon!
