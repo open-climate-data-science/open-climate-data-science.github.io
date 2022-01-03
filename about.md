@@ -12,7 +12,7 @@ To initiate steps to overcome these hurdles, this virtual workshop will:
 
 1. **facilitate collaborations** between communities, organizations, climate scientists, and data scientists with shared goals and interests
 
-2. **build capacity** for using publicly available (i.e., "open data") weather and climate data along with reproducible science practices (i.e., "open science") and local knowledge
+2. **build capacity** to use publicly available (i.e., "open data") weather and climate data along with reproducible science practices (i.e., "open science") and local knowledge
 
 This workshop is open to all people, communities, and organizations who are interested in using publicly available data along with reproducible science practices to address the impacts of climate change in their communities.
 
