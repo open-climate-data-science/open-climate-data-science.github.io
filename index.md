@@ -8,13 +8,13 @@ title: Workshop News
 
 ## Workshop Application Is Now Open!
 
-</br>
-</br>
+<br>
+<br>
 
 ![image](img/ocds_logo_transparent.png)
 
-</br>
-</br>
+<br>
+<br>
 
 The application for the virtual Open Climate Data Science Workshop in March 2022 is now open!
 
