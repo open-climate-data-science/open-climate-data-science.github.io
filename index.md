@@ -9,12 +9,6 @@ title: Workshop News
 ## Workshop Application Is Now Open!
 
 <br>
-<br>
-
-![image](img/ocds_logo_transparent.png)
-
-<br>
-<br>
 
 The application for the virtual Open Climate Data Science Workshop in March 2022 is now open!
 
@@ -23,3 +17,11 @@ The application for the virtual Open Climate Data Science Workshop in March 2022
 The purpose of this application is to facilitate collaboration amongst individuals and organizations with diverse backgrounds and interests within our current Zoom capacity limit. Please feel free to pass along this application information to others.
 
 **This application will close on Friday, January 21, 2022.** We will notify all applicants by February 4, 2022.
+
+<br>
+<br>
+
+![image](img/ocds_logo_transparent.png)
+
+<br>
+<br>
