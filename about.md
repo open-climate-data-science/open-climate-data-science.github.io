@@ -51,7 +51,7 @@ To apply to the workshop, visit the the [main website page](https://go.ncsu.edu/
 The Open Climate Data Science Workshop is co-organized by staff from the [State Climate Office of NC](https://climate.ncsu.edu), the [NC Institute for Climate Studies](https://ncics.org/), the [Southeast Climate Adaptation Science Center](https://secasc.ncsu.edu/), and [NC State University Libraries](https://www.lib.ncsu.edu/). These staff members include:
 
 * Dr. Kathie Dello - State Climate Office of NC
-* Dr. Jessica Matthews - National Oceanographic and Atmosphere Administration
+* Dr. Jessica Matthews - National Oceanic and Atmospheric Administration
 * Dr. Douglas (Yuhan) Rao - NC Institute for Climate Studies
 * Dr. Sheila Saia - State Climate Office of NC
 * Micah Vandegrift - NC State University Libraries
