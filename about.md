@@ -32,7 +32,7 @@ This workshop is open to all people, communities, and organizations who are inte
 
 For a complete workshop schedule, visit the ["Schedule" tab](https://open-climate-data-science.github.io/schedule/) of this website.
 
-To learn more about the workshop goals and outcomes, check out the [workshop flyer](https://drive.google.com/file/d/1f8PhgextME6hivKc0m34MSm0emjSBdrZ/view?usp=sharing) and [one-page description](https://drive.google.com/file/d/1KrNhi-RCcy4fvWX80KPB2aAxryM3lEw_/view?usp=sharing).
+To learn more about the workshop goals and outcomes, check out the [workshop flyer](https://drive.google.com/file/d/18unYXTQKbV6hfP2IgnUKFJtVzQkTvJA4/view?usp=sharing) and [one-page description](https://drive.google.com/file/d/1KrNhi-RCcy4fvWX80KPB2aAxryM3lEw_/view?usp=sharing).
 
 **You're welcome to share these materials with others!**
 
@@ -42,14 +42,28 @@ To learn more about the workshop goals and outcomes, check out the [workshop fly
 
 To apply to the workshop, visit the the [main website page](https://go.ncsu.edu/open-climate-data).
 
-**This application will close on Friday, January 21, 2022.** We will notify all applicants by February 4, 2022.
+**This application will close at the end of the day (11:59pm ET) on Sunday, January 23, 2022 (deadline extended).** We will notify all applicants by February 4, 2022.
+
+<br>
+
+### Workshop Organizers
+
+The Open Climate Data Science Workshop is co-organized by staff from the [State Climate Office of NC](https://climate.ncsu.edu), the [NC Institute for Climate Studies](https://ncics.org/), the [Southeast Climate Adaptation Science Center](https://secasc.ncsu.edu/), and [NC State University Libraries](https://www.lib.ncsu.edu/). These staff members include:
+
+* Dr. Kathie Dello - State Climate Office of NC
+* Dr. Jessica Matthews - National Oceanographic and Atmosphere Administration
+* Dr. Douglas (Yuhan) Rao - NC Institute for Climate Studies
+* Dr. Sheila Saia - State Climate Office of NC
+* Micah Vandegrift - NC State University Libraries
+* Dr. Carl Schreck - NC Institute for Climate Studies
+* Aranzazu Lascurain - Southeast Climate Adaptation Science Center
+* Livia Popa - State Climate Office of NC
+* Nicholas Gawron - State Climate Office of NC
 
 <br>
 <br>
 <br>
 
 ## Acknowledgements
-
-The Open Climate Data Science Workshop is co-organized by staff from the [State Climate Office of NC](https://climate.ncsu.edu), the [NC Institute for Climate Studies](https://ncics.org/), the [Southeast Climate Adaptation Science Center](https://secasc.ncsu.edu/), and [NC State University Libraries](https://www.lib.ncsu.edu/).
 
 This event is supported through a grant from the NC State University Office of Research and Innovation's Data Science Initiative. For more information, visit [their website](https://research.ncsu.edu/dsi/internal-funding/).
