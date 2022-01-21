@@ -32,7 +32,7 @@ This workshop is open to all people, communities, and organizations who are inte
 
 For a complete workshop schedule, visit the ["Schedule" tab](https://open-climate-data-science.github.io/schedule/) of this website.
 
-To learn more about the workshop goals and outcomes, check out the [workshop flyer](https://drive.google.com/file/d/18unYXTQKbV6hfP2IgnUKFJtVzQkTvJA4/view?usp=sharing) and [one-page description](https://drive.google.com/file/d/1KrNhi-RCcy4fvWX80KPB2aAxryM3lEw_/view?usp=sharing).
+To learn more about the workshop goals and outcomes, check out the [workshop flyer](https://drive.google.com/file/d/1Ce-ri0LfepnLp07Pm1ImxMhdXzZhsy5Y/view?usp=sharing) and [one-page description](https://drive.google.com/file/d/1KrNhi-RCcy4fvWX80KPB2aAxryM3lEw_/view?usp=sharing).
 
 **You're welcome to share these materials with others!**
 
@@ -42,7 +42,7 @@ To learn more about the workshop goals and outcomes, check out the [workshop fly
 
 To apply to the workshop, visit the the [main website page](https://go.ncsu.edu/open-climate-data).
 
-**This application will close at the end of the day (11:59pm ET) on Sunday, January 23, 2022 (deadline extended).** We will notify all applicants by February 4, 2022.
+We will notify all applicants by February 4, 2022.
 
 <br>
 
