@@ -40,14 +40,12 @@ permalink: /schedule/
 
 ## Plenary Speaker Bios
 
-<br>
-
 > *NOTE: We are still in the process of filling out our plenary speaker bios. Please come back soon for more information!*
 
 <br>
 
 ### Dr. Ryan Emanuel
-Title: (Associate Professor of Hydrology <br>
+Title: Associate Professor of Hydrology <br>
 Affiliation: Duke University <br>
 Bio: <br>
 Preferred prounouns: <br>
