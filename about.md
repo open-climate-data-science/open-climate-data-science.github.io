@@ -42,8 +42,6 @@ To learn more about the workshop goals and outcomes, check out the [workshop fly
 
 To apply to the workshop, visit the the [main website page](https://go.ncsu.edu/open-climate-data).
 
-We will notify all applicants by February 4, 2022.
-
 <br>
 
 ### Workshop Organizers
@@ -60,7 +58,6 @@ The Open Climate Data Science Workshop is co-organized by staff from the [State 
 * Livia Popa - State Climate Office of NC
 * Nicholas Gawron - State Climate Office of NC
 
-<br>
 <br>
 <br>
 
