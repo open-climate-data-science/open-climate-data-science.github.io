@@ -6,7 +6,7 @@ permalink: /plenaries/
 
 ## Week 1: March 1, 2022 Plenary (13:15-14:15 ET)
 
-*Speakers:* Dr. Ryan Emanuel & Dr. Alyson Wilson
+*Speakers:* Dr. Ryan Emanuel & Dr. Alyson Wilson <br>
 *Host:* Dr. Sheila Saia
 
 <br>
@@ -33,7 +33,7 @@ Dr. Alyson Wilson (she/her) is the Associate Vice Chancellor for National Securi
 
 ## Week 2: March 8, Plenary (13:15-14:15 ET)
 
-*Speakers:* Dr. Deke Arndt & Dr. Chelle Gentemann
+*Speakers:* Dr. Deke Arndt & Dr. Chelle Gentemann <br>
 *Host:* Dr. Douglas Rao
 
 <br>
