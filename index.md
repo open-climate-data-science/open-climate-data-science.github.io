@@ -8,9 +8,9 @@ title: Workshop News
 
 ## Workshop Planning Is Underway
 
-**Feburary 4, 2022 Update:** The workshop organizing team is hard at work planning for the plenaries, tutorials, and collaboration building sessions. We will be touch with more workshop details in the next few weeks.
+**February 21, 2022 Update:** The workshop organizing team is hard at work planning for the plenaries, tutorials, and collaboration building sessions. We will be touch with more workshop details in the next few weeks.
 
-Please watch your email!
+We will be sending out an email on Friday, February 25, 2022 with all the meeting information. Please look out for this email!
 
 <br>
 
@@ -24,6 +24,6 @@ The purpose of this application is to facilitate collaboration amongst individua
 
 <br>
 
-![image](img/ocds_logo_transparent.png)
+![Workshop logo featuring three people joining hands around climate, weather, and data science.](img/ocds_logo_transparent.png)
 
 <br>
