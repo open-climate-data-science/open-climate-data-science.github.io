@@ -14,16 +14,6 @@ We will be sending out an email on Friday, February 25, 2022 with all the meetin
 
 <br>
 
-## Workshop Application Is Still Open!
-
-We are still accepting applicants for the Open Climate Data Science Workshop in March 2022.
-
-[**Application Link**](https://forms.gle/W2sDwoBwdajfW2cq5)
-
-The purpose of this application is to facilitate collaboration amongst individuals and organizations with diverse backgrounds and interests within our current Zoom capacity limit. Please feel free to pass along this application information to others.
-
-<br>
-
 ![Workshop logo featuring three people joining hands around climate, weather, and data science.](img/ocds_logo_transparent.png)
 
 <br>

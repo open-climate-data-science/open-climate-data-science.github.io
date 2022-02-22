@@ -40,7 +40,7 @@ To learn more about the workshop goals and outcomes, check out the [workshop fly
 
 ### Application
 
-To apply to the workshop, visit the the [main website page](https://go.ncsu.edu/open-climate-data).
+The workshop application is closed.
 
 <br>
 
