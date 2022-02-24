@@ -12,7 +12,7 @@ To read the bios for each plenary speaker, please visit the [Plenary page](https
 
 ### Week 1 (March 1 & 2, 2022)
 
-*All times are in ET.
+*All times are in ET. <br>
 **The :movie_camera: emoji indicates event will recorded.
 
 | Day | Time | Description |
@@ -29,7 +29,7 @@ To read the bios for each plenary speaker, please visit the [Plenary page](https
 
 ### Week 2 (March 8 & 9, 2022)
 
-*All times are in ET.
+*All times are in ET. <br>
 **The :movie_camera: emoji indicates event will recorded.
 
 | Day | Time | Description |

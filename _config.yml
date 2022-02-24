@@ -35,6 +35,7 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jemoji
 
 #Pages in the top menu, in order
 header_pages:
