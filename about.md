@@ -63,6 +63,6 @@ The Open Climate Data Science Workshop is co-organized by staff from the [State 
 
 ## Acknowledgements
 
-This event is supported through a grant from the NC State University Office of Research and Innovation's Data Science Initiative. For more information, visit [their website](https://research.ncsu.edu/dsi/internal-funding/).
+This event is funded through a grant from the [NC State Office of Research and Innovation](https://research.ncsu.edu/dsi/internal-funding/) and also supported by the [NC State University's Data Science Academy](https://datascienceacademy.ncsu.edu/about/).
 
-A big thanks to the NC State University Library [Data Experience Lab](https://www.lib.ncsu.edu/spaces/dxl) in D.H. Hill Library for providing our tutorial instructors (Livia Popa and Nicholas Gawron) workspace accomodations during the March 2022 workshop.
+A big thanks to the NC State University Libraries [Data Experience Lab](https://www.lib.ncsu.edu/spaces/dxl) in D.H. Hill Library for providing our tutorial instructors (Livia Popa and Nicholas Gawron) workspace accomodations during the March 2022 workshop.

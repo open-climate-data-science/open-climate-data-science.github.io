@@ -4,6 +4,8 @@ title: Plenaries
 permalink: /plenaries/
 ---
 
+Both plenary sessions will be recorded and recordings will be made publicly available on this website.
+
 ## Week 1: March 1, 2022 Plenary (13:15-14:15 ET)
 
 *Speakers:* Dr. Ryan Emanuel & Dr. Alyson Wilson <br>
