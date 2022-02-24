@@ -23,7 +23,7 @@ To read the bios for each plenary speaker, please visit the [Plenary page](https
 | | 15:30-15:50  | Day 1 Wrap Up Activities |
 | | 15:50-16:00  | Closing and Looking Ahead to Day 2 |
 | March 2  | 13:00-13:15 | Welcome |
-| | 13:15-15:30  | :movie_camera: Hands-on Tutorial: Introducton to Open Climate Data Science (how to access public climate data sets and do basic data analysis and visualization) |
+| | 13:15-15:30  | :movie_camera: Hands-on Tutorial: Beginner Open Climate Data Science (how to access public climate data sets and do basic data analysis and visualization) |
 | | 15:30-15:50  | Day 2 Wrap Up Activities |
 | | 15:50-16:00  | Closing and Looking Ahead to Day 3 |
 
