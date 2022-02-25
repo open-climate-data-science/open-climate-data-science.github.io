@@ -12,7 +12,7 @@ The overall goal of the *beginner tutorial* is to introduce topics of open data,
 
 <br>
 
-[INSERT BINDER LINK TO THIS TUTORIAL HERE]
+[WE WILL TUTORIAL INSERT LINK HERE SOON]
 
 <br>
 
@@ -34,7 +34,7 @@ The overall goal of the *advanced tutorial* is to introduce topics of open data,
 
 <br>
 
-[INSERT BINDER LINK TO THIS TUTORIAL HERE]
+[WE WILL TUTORIAL INSERT LINK HERE SOON]
 
 <br>
 

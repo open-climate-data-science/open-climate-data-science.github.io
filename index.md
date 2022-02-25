@@ -8,9 +8,9 @@ title: Workshop News
 
 ## Workshop Planning Is Underway
 
-**February 21, 2022 Update:** The workshop organizing team is hard at work planning for the plenaries, tutorials, and collaboration building sessions. We will be touch with more workshop details in the next few weeks.
+**February 25, 2022 Update:** The workshop organizing team sent out a calendar invite and email with detailed instructions for the workshop. If you did not receive these, please send us an email at open-climate-data@ncsu.edu.
 
-We will be sending out an email on Friday, February 25, 2022 with all the meeting information. Please look out for this email!
+We posted more details about the tutorials, plenaries, code of conduct, and schedule on their respective pages. We encourage you to take a tour of the website for more information!
 
 <br>
 
