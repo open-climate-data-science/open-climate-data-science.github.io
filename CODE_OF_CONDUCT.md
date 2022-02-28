@@ -44,7 +44,7 @@ The following behaviors are expected and requested of all workshop attendees:
 
 <br>
 
-## Unexceptable Behavior
+## Unacceptable Behavior
 
 Behavior that is not tolerated at this workshop includes:
 
