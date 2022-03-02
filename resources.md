@@ -18,6 +18,8 @@ This resource list is curated by the workshop organizers. If you have other sugg
 ### North Carolina 
 
 - [Cardinal Data Portal](https://products.climate.ncsu.edu/cardinal/) by State Climate Office of North Carolina. 
+- [How to access data on the Cardinal Data Portal](https://www.youtube.com/watch?v=UW95MTXEl4k) YouTube webinar by Corey Davis of the State Climate Office of North Carolina
+- North Carolina Office of Recovery and Resilience (NCORR) Climate Resilience DataPalooza List of relevant datasets for North Carolina [NEEDS LINK]
 
 ## Publications and Reports
 
