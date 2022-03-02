@@ -12,7 +12,7 @@ The overall goal of the *beginner tutorial* is to introduce topics of open data,
 
 <br>
 
-[WE WILL TUTORIAL INSERT LINK HERE SOON]
+:computer: **Beginner Tutorial** (student version without answers): [LINK](https://mybinder.org/v2/gh/open-climate-data-science/ocds-sandbox/HEAD?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fopen-climate-data-science%252Ftutorial-beginner-track%26urlpath%3Dlab%252Ftree%252Ftutorial-beginner-track%252Fbeginner_tutorial_student.ipynb%26branch%3Dmain)
 
 <br>
 
@@ -34,7 +34,7 @@ The overall goal of the *advanced tutorial* is to introduce topics of open data,
 
 <br>
 
-[WE WILL TUTORIAL INSERT LINK HERE SOON]
+:computer: **Advanced Tutorial** (student version without answers): [*WE WILL TUTORIAL INSERT LINK HERE SOON*]
 
 <br>
 
