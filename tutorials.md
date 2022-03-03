@@ -6,13 +6,11 @@ permalink: /tutorials/
 
 To see the full workshop agenda, please visit the [Schedule page](https://open-climate-data-science.github.io/schedule/).
 
-## Week 1: March 2, 2022 Beginner Tutorial (13:15-15:30 ET)
+## Week 1: March 2, 2022 Beginner Tutorial
 
 The overall goal of the *beginner tutorial* is to introduce topics of open data, reproducible science, and do basic data analysis and visualization with publicly available datasets, such as those found on the State Climate Office of North Carolina's [Cardinal data portal](https://products.climate.ncsu.edu/cardinal/). 
 
-<br>
-
-### Important Beginner Tutorial Links
+### Important Tutorial Links
 
 :computer: **Beginner Tutorial** (student version without answers): [LINK](https://mybinder.org/v2/gh/open-climate-data-science/ocds-sandbox/HEAD?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fopen-climate-data-science%252Ftutorial-beginner-track%26urlpath%3Dlab%252Ftree%252Ftutorial-beginner-track%252Fbeginner_tutorial_student.ipynb%26branch%3Dmain)
 
@@ -22,7 +20,7 @@ The overall goal of the *beginner tutorial* is to introduce topics of open data,
 
 See the [Resources page](https://open-climate-data-science.github.io/schedule/resources/) for more information about beginner tutorial-relevant resources.
 
-<br>
+### Tutorial Goals
 
 By the end of the Beginner Tutorial, participants will be able to:
 
@@ -36,15 +34,15 @@ By the end of the Beginner Tutorial, participants will be able to:
 
 <br>
 
-## Week 2: March 9, 2022 Advanced Tutorial (13:15-15:30 ET)
+## Week 2: March 9, 2022 Advanced Tutorial
 
 The overall goal of the *advanced tutorial* is to introduce topics of open data, reproducible science, practice accessing publicly available climate data on the cloud, such as those found on the National Centers for Environmental Information (NCEI) [nClimGrid data](https://nclimgrid-cisess-reports.s3.amazonaws.com/index.html), and carry out intermediate statistical analysis and modeling (e.g., time series modeling and clustering).
 
-<br>
+### Important Tutorial Links
 
 :computer: **Advanced Tutorial** (student version without answers): [*WE WILL TUTORIAL INSERT LINK HERE SOON*]
 
-<br>
+### Tutorial Goals
 
 By the end of the Advanced Tutorial, participants will be able to:
 
