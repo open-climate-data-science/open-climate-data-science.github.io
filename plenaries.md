@@ -11,7 +11,7 @@ Both plenary sessions will be recorded and recordings will be made publicly avai
 *Speakers:* Dr. Ryan Emanuel & Dr. Alyson Wilson <br>
 *Host:* Dr. Sheila Saia
 
-:movie_camera: **Plenary Recording**: [**WE WILL ADD THE RECORDING LINK HERE SOON**]
+:movie_camera: **Plenary Recording**: [LINK](https://ncsu.zoom.us/rec/play/z_YapXfR2HYxeuGZ0-pU6Q50LzKQQ9JFOOTArDe2ikZhfCcQFUx4jVa_kIT4qaS31fq8sX_Mp3ZMINuj.pblCbDhMXrIA1fvG?continueMode=true&_x_zm_rtaid=zazLc9H9QYe_HhdGj90wpQ.1646335232872.900a475613b742b49975029e137bd9f8&_x_zm_rhtaid=628)
 
 <br>
 
