@@ -12,7 +12,15 @@ The overall goal of the *beginner tutorial* is to introduce topics of open data,
 
 <br>
 
+### Important Beginner Tutorial Links
+
 :computer: **Beginner Tutorial** (student version without answers): [LINK](https://mybinder.org/v2/gh/open-climate-data-science/ocds-sandbox/HEAD?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fopen-climate-data-science%252Ftutorial-beginner-track%26urlpath%3Dlab%252Ftree%252Ftutorial-beginner-track%252Fbeginner_tutorial_student.ipynb%26branch%3Dmain)
+
+:computer: **Beginner Tutorial** (teacher version with answers): [LINK](https://mybinder.org/v2/gh/open-climate-data-science/ocds-sandbox/HEAD?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fopen-climate-data-science%252Ftutorial-beginner-track%26urlpath%3Dlab%252Ftree%252Ftutorial-beginner-track%252Fbeginner_tutorial_teacher.ipynb%26branch%3Dmain)
+
+:movie_camera: **Beginner Tutorial Recording**: [LINK](https://ncsu.zoom.us/rec/play/kH3VUj10WCDYxpGw-om0rwV7Nx8WMwHsmLGvkhhJY2BsbD_ayDSuUHjzoPkGCZOrUE8e-ZFiklqPdbhr.triKHHBNipmBVf3x?continueMode=true&_x_zm_rtaid=zazLc9H9QYe_HhdGj90wpQ.1646335232872.900a475613b742b49975029e137bd9f8&_x_zm_rhtaid=628)
+
+See the [Resources page](https://open-climate-data-science.github.io/schedule/resources/) for more information about beginner tutorial-relevant resources.
 
 <br>
 

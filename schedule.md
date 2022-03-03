@@ -13,7 +13,7 @@ To read the bios for each plenary speaker, please visit the [Plenary page](https
 ### Week 1 (March 1 & 2, 2022)
 
 *All times are in ET. <br>
-**The :movie_camera: emoji indicates event will recorded.
+**The :movie_camera: emoji indicates event will recorded. See the [Plenaries page](https://open-climate-data-science.github.io/plenaries/) for recording links.
 
 | Day | Time | Description |
 | March 1  | 13:00-13:15  | Welcome |
@@ -30,7 +30,7 @@ To read the bios for each plenary speaker, please visit the [Plenary page](https
 ### Week 2 (March 8 & 9, 2022)
 
 *All times are in ET. <br>
-**The :movie_camera: emoji indicates event will recorded.
+**The :movie_camera: emoji indicates event will recorded. See the [Plenaries page](https://open-climate-data-science.github.io/plenaries/) for recording links.
 
 | Day | Time | Description |
 | March 8  | 13:00-13:15  | Welcome |
@@ -47,4 +47,4 @@ To read the bios for each plenary speaker, please visit the [Plenary page](https
 <br> 
 <br>
 
-Last Updated: 2022-02-21
+Last Updated: 2022-03-03
