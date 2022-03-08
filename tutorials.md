@@ -40,7 +40,11 @@ The overall goal of the *advanced tutorial* is to introduce topics of open data,
 
 ### Important Tutorial Links
 
-:computer: **Advanced Tutorial** (student version without answers): [*WE WILL TUTORIAL INSERT LINK HERE SOON*]
+:computer: **Advanced Tutorial** (student version without answers): [*WE WILL INSERT TUTORIAL LINK HERE SOON*]
+
+:computer: **Advanced Tutorial** (teacher version with answers): [*WE WILL INSERT TUTORIAL LINK HERE SOON*]
+
+:movie_camera: **Beginner Tutorial Recording**: [*WE WILL INSERT LINK HERE SOON*]
 
 ### Tutorial Goals
 
