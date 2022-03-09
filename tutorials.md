@@ -40,9 +40,9 @@ The overall goal of the *advanced tutorial* is to introduce topics of open data,
 
 ### Important Tutorial Links
 
-:computer: **Advanced Tutorial** (student version without answers): [*WE WILL INSERT TUTORIAL LINK HERE SOON*]
+:computer: **Advanced Tutorial** (student version without answers): [LINK](https://mybinder.org/v2/gh/open-climate-data-science/ocds-sandbox/HEAD?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fopen-climate-data-science%252Ftutorial-advanced-track%26urlpath%3Dlab%252Ftree%252Ftutorial-advanced-track%252Fadvanced_tutorial_student.ipynb%26branch%3Dmain)
 
-:computer: **Advanced Tutorial** (teacher version with answers): [*WE WILL INSERT TUTORIAL LINK HERE SOON*]
+:computer: **Advanced Tutorial** (teacher version with answers): [LINK](https://mybinder.org/v2/gh/open-climate-data-science/ocds-sandbox/HEAD?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fopen-climate-data-science%252Ftutorial-advanced-track%26urlpath%3Dlab%252Ftree%252Ftutorial-advanced-track%252Fadvanced_tutorial_teacher.ipynb%26branch%3Dmain)
 
 :movie_camera: **Beginner Tutorial Recording**: [*WE WILL INSERT LINK HERE SOON*]
 
