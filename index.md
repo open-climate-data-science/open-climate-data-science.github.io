@@ -6,7 +6,7 @@ layout: home
 title: Workshop News
 ---
 
-## The Workshop Is Underway
+## The Workshop Is Complete
 
 **March 11, 2022 Update:** The workshop is officially finished! Please check out the about page, plenary page, tutorial page, and resources page for more information on what we discussed and covered.
 
