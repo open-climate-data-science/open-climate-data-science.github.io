@@ -40,7 +40,7 @@ Dr. Alyson Wilson (she/her) is the Associate Vice Chancellor for National Securi
 *Speakers:* Dr. Deke Arndt & Dr. Chelle Gentemann <br>
 *Host:* Dr. Douglas Rao
 
-:movie_camera: **Plenary Recording**: [*WE WILL INSERT A LINK HERE SOON*]
+:movie_camera: **Plenary Recording**: [LINK](https://ncsu.zoom.us/rec/share/NM2nc3JrPnsW38Zg7adxkObuTZQnRT6d-A4h6XrSmifARVuRMBCGj0zLq2qfeKOk.7RFlPvlkI_GeRETt?startTime=1646762398000)
 
 <br>
 
