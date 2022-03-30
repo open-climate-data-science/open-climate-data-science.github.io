@@ -14,6 +14,7 @@ This resource list is curated by the workshop organizers. If you have other sugg
 - [USGS Geo Data Portal](https://cida.usgs.gov/gdp/) by U.S. Geological Survey. 
 - [NASA EarthData](https://earthdata.nasa.gov/) by National Aeronautics and Space Administration.  
 - [Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/) by NOAA National Centers for Environmental Information (NCEI).
+- [Macrosheds water chemistry data portal](https://cuahsi.shinyapps.io/macrosheds/)
 
 ### North Carolina 
 
